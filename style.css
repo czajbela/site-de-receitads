@@ -13,6 +13,8 @@
 .ingredientes{
     text-decoration: none;
     font-size: 30px;
+    display: flex;
+    
 }
 
 .ingredientes h1{
