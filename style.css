@@ -15,11 +15,11 @@
     font-size: 30px;
     display: flex;
     color: #AC0C0C;
+    flex-direction: row;
 
     
 }
 
 .ingredientes h1{
     font size 60px
-    color: #A7D82E;
 }
