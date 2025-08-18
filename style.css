@@ -23,12 +23,6 @@
     font-size: larger;
 }
 
-img{
- width: 20%;
-  height: auto;
-  display: flex;
-}
-
 .travessa {
   display: flex;            
   justify-content: center;  
