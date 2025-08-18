@@ -3,6 +3,12 @@
     color:#FBFADF;
     font-size: 70%;
     padding: 20px;
+    display: flex;
+}
+
+#logo{
+    width: 20%;
+    height: auto;
 }
 .travessa{
     text-decoration: none;
