@@ -4,22 +4,27 @@
     font-size: 70%;
     height: 100%;
     width: 100%;
+    padding: auto;
 }
 .travessa{
     text-decoration: none;
     color: #F5F883;
+    
 }
 
 .ingredientes{
     text-decoration: none;
-    font-size: 30px;
+    font-size: 30%;
     display: flex;
     color: #AC0C0C;
-    flex-direction: row;
-
+    flex-direction: column
     
 }
 
 .ingredientes h1{
-    font size 60px
+    font-size: larger;
+}
+
+.fotobombom{
+    size: 22%;
 }
