@@ -15,20 +15,21 @@ body {
 
 
 .introducao{ 
-    background-color: #AC0C0C; 
-    color:#FBFADF; 
-    font-size: 70%; 
-    display: flex;
-    margin-bottom: 30px; 
-    flex-direction: row-reverse; 
-    align-items: center; 
-    justify-content: flex-end; 
-    padding: 10%;}
+     width: 100%;
+  background-color: #AC0C0C;
+  color: #FBFADF;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: flex-start; /
+  margin-bottom: 30px;
+}
 
 #logo {
-  width: 14%;
+  width: 50px;  
   height: auto;
+  margin-right: 15px;
 }
+
 
 .receita img {
   width: 200px;     
