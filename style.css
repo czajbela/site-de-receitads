@@ -22,10 +22,11 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  text-decoration: none;
 }
 
 #logo {
-  width: 7%;
+  width: 14%;
   height: auto;
 }
 
