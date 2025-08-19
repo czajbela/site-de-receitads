@@ -22,7 +22,8 @@ body {
     margin-bottom: 30px; 
     flex-direction: row-reverse; 
     align-items: center; 
-    justify-content: flex-end; }
+    justify-content: flex-end; 
+    padding: 10%;}
 
 #logo {
   width: 14%;
