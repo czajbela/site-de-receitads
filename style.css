@@ -2,7 +2,7 @@
     background-color: #AC0C0C;
     color:#FBFADF;
     font-size: 70%;
-    padding: 0;
+    padding: 20px;
     margin: 0;
     display: flex;
     flex-direction: row-reverse;
@@ -38,12 +38,13 @@
 
 .receita {
   text-align: center;  
-  display: flexbox;    
+  display: flex;    
 }
 
 .receita img {
   width: 200px;   
   height: auto;
   border-radius: 10px; 
+display: flex;
 }
 
