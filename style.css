@@ -18,8 +18,8 @@ body {
     background-color: #AC0C0C; 
     color:#FBFADF; 
     font-size: 70%; 
-    padding: 20px; 
-    display: flex; 
+    display: flex;
+    margin-bottom: 30px; 
     flex-direction: row-reverse; 
     align-items: center; 
     justify-content: flex-end; }
