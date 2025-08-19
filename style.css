@@ -14,17 +14,7 @@
     width: 20%;
     height: auto;
 }
-.travessa{
-    text-decoration: none;
-    color: #F5F883;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 20px;
-  margin-top: 20px;
-  padding: 10px;
-}
     
-
 
 .ingredientes{
     text-decoration: none;
@@ -47,7 +37,8 @@
 }
 
 .receita {
-  text-align: center;      
+  text-align: center;  
+  display: flexbox;    
 }
 
 .receita img {
