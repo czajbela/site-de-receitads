@@ -2,8 +2,12 @@
     background-color: #AC0C0C;
     color:#FBFADF;
     font-size: 70%;
-    padding: 20px;
+    padding: 0;
+    margin: 0;
     display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: flex-end;
 }
 
 #logo{
@@ -13,8 +17,14 @@
 .travessa{
     text-decoration: none;
     color: #F5F883;
-    
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+  padding: 10px;
 }
+    
+
 
 .ingredientes{
     text-decoration: none;
