@@ -19,6 +19,7 @@ body {
   background-color: #AC0C0C;
   color: #FBFADF;
   padding: 10px 20px;
+  display: flex;
   justify-content: flex-end;
     flex-direction: row-reverse;
     align-items: center;
