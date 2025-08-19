@@ -22,7 +22,18 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 30px;
 }
+
+.introdução{ 
+    background-color: #AC0C0C; 
+    color:#FBFADF; 
+    font-size: 70%; 
+    padding: 20px; 
+    display: flex; 
+    flex-direction: row-reverse; 
+    align-items: center; 
+    justify-content: flex-end; }
 
 #logo {
   width: 14%;
